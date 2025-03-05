@@ -1,3 +1,12 @@
+# Multimodal Prediction for Fish Disease Knowledge Graph
+
+**Undergraduate Thesis Project**  
+**[Yue Yu]**  
+
+## Abstract
+
+
+
 # Qwen2-VLFishgraph
 Multimodal + Knowledge Graph + RotatE + Qwen2-VL
 
