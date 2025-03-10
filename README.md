@@ -5,7 +5,7 @@
 
 ## Abstract
 
-
+In this work, we present a multimodal knowledge graph embedding framework that integrates textual and visual information for improved entity-relation modeling in fish disease prediction. Our approach combines the RotatE algorithm with Qwen2-VL, a vision-language model, to enhance knowledge graph representations by incorporating image-based features. We employ a cross-attention mechanism to effectively fuse textual and visual embeddings for a unified semantic space. A contrastive learning strategy with hard negative sampling is introduced to refine entity differentiation. The model is trained using a margin ranking loss and optimized with different learning rate schedulers. Experimental results demonstrate that our approach achieves good ranking performance. These findings highlight the potential of multimodal knowledge graphs in improving predictive accuracy for fish disease identification. Future work includes extending the framework to additional modalities and enhancing multimodal fusion techniques.
 
 # Qwen2-VLFishgraph
 Multimodal + Knowledge Graph + RotatE + Qwen2-VL
